@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:note_example_app/assets/constants/app_colors.dart';
 import 'package:note_example_app/feature/add_note/presentation/pages/add_todo.dart';
-import 'package:note_example_app/feature/home/domain/entitys/note_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/note_entity.dart';
 import 'package:note_example_app/feature/home/presentation/bloc/note_cubit.dart';
 
 class NoteItem extends StatelessWidget {

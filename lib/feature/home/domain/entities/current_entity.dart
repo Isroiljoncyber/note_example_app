@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:note_example_app/feature/home/data/model/current_model.dart';
-import 'package:note_example_app/feature/home/domain/entitys/condition_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/condition_entity.dart';
 
 class CurrentEntity extends Equatable {
   const CurrentEntity({

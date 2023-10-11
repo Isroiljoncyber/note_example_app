@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:note_example_app/feature/home/domain/entitys/current_entity.dart';
-import 'package:note_example_app/feature/home/domain/entitys/location_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/current_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/location_entity.dart';
 
 class WeatherEntity extends Equatable {
   const WeatherEntity({

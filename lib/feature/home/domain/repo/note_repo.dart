@@ -1,6 +1,6 @@
 import 'package:either_dart/either.dart';
-import 'package:note_example_app/feature/home/domain/entitys/note_entity.dart';
-import 'package:note_example_app/feature/home/domain/entitys/weather_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/note_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/weather_entity.dart';
 
 abstract class NoteRepo {
   Future<Either<String, void>> saveNote(NoteEntity noteEntity);

@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:formz/formz.dart';
-import 'package:note_example_app/feature/home/domain/entitys/note_entity.dart';
-import 'package:note_example_app/feature/home/domain/entitys/weather_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/note_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/weather_entity.dart';
 import 'package:note_example_app/feature/home/domain/usecase/delete_note_usecase.dart';
 import 'package:note_example_app/feature/home/domain/usecase/get_notes_usecase.dart';
 import 'package:note_example_app/feature/home/domain/usecase/get_weather_info.dart';

@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive/hive.dart';
 import 'package:note_example_app/assets/theme/theme.dart';
 import 'package:note_example_app/core/singleton/service.dart';
-import 'package:note_example_app/feature/home/domain/entitys/note_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/note_entity.dart';
 import 'package:note_example_app/feature/home/presentation/bloc/note_cubit.dart';
 import 'package:note_example_app/feature/home/presentation/page/home.dart';
 import 'package:path_provider/path_provider.dart';

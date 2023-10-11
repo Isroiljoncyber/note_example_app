@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:note_example_app/assets/constants/app_colors.dart';
-import 'package:note_example_app/feature/home/domain/entitys/note_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/note_entity.dart';
 import 'package:note_example_app/feature/home/presentation/bloc/note_cubit.dart';
 import 'package:note_example_app/feature/home/presentation/widgets/custom_button.dart';
 

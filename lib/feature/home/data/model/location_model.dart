@@ -1,4 +1,4 @@
-import 'package:note_example_app/feature/home/domain/entitys/location_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/location_entity.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'location_model.g.dart';

@@ -1,5 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
-import 'package:note_example_app/feature/home/domain/entitys/condition_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/condition_entity.dart';
 
 part 'condition_model.g.dart';
 

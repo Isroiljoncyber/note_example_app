@@ -3,8 +3,8 @@ import 'package:either_dart/src/either.dart';
 import 'package:hive/hive.dart';
 import 'package:note_example_app/core/singleton/service.dart';
 import 'package:note_example_app/feature/home/data/datasource/note_datasource.dart';
-import 'package:note_example_app/feature/home/domain/entitys/note_entity.dart';
-import 'package:note_example_app/feature/home/domain/entitys/weather_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/note_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/weather_entity.dart';
 import 'package:note_example_app/feature/home/domain/repo/note_repo.dart';
 
 class NoteRepoImpl implements NoteRepo {

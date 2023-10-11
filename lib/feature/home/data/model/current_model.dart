@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
-import 'package:note_example_app/feature/home/domain/entitys/condition_entity.dart';
-import 'package:note_example_app/feature/home/domain/entitys/current_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/condition_entity.dart';
+import 'package:note_example_app/feature/home/domain/entities/current_entity.dart';
 
 part 'current_model.g.dart';
 
