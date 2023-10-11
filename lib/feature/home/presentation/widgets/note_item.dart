@@ -49,7 +49,7 @@ class NoteItem extends StatelessWidget {
                   ),
                   const SizedBox(height: 12),
                   Text(
-                    dateTime(item.createAt) ?? "unknown",
+                    dateTime(item.createAt),
                     style: TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.w500,

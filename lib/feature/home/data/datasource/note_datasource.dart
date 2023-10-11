@@ -4,7 +4,6 @@ import 'package:note_example_app/core/app_constants.dart';
 import 'package:note_example_app/core/hive/hive_utils.dart';
 import 'package:note_example_app/feature/home/data/model/weather_model.dart';
 import 'package:note_example_app/feature/home/domain/entities/note_entity.dart';
-import 'package:note_example_app/feature/home/domain/entities/weather_entity.dart';
 
 abstract class NoteDataSource {
   Future<void> saveNote(NoteEntity noteEntity);
